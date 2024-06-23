@@ -1,12 +1,12 @@
 #include <unistd.h>
 
-int main(int argn, char **argv)
+int main(int argc, char **argv)
 {
     int i;
     char c;
 
     i = 0;
-    if (argn == 2)
+    if (argc == 2)
     {
         c = argv[1][i];
         while(c)

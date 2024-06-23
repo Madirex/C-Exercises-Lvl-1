@@ -9,11 +9,11 @@ void    print_alphabet_multi(char c, char start)
     }
 }
 
-int main(int argn, char **argv)
+int main(int argc, char **argv)
 {
     int i = 0;
 
-    if (argn == 2)
+    if (argc == 2)
     {
         while(argv[1][i])
         {

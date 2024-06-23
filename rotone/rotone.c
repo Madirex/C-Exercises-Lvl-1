@@ -1,10 +1,10 @@
 #include <unistd.h>
 
-int main(int argn, char **argc)
+int main(int argc, char **argc)
 {
     int i = 0;
 
-    if (argn == 2)
+    if (argc == 2)
     {
         char c = argc[1][i];
         while(c)
