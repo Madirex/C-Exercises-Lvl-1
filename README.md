@@ -88,7 +88,7 @@ Some C exercises - Difficulty: 1
 ## ft_strcpy
     Assignment name  : ft_strcpy
     Expected files   : ft_strcpy.c
-    Allowed functions:
+    Allowed functions: None
     --------------------------------------------------------------------------------
 
     Reproduce the behavior of the function strcpy (man strcpy).
@@ -100,7 +100,7 @@ Some C exercises - Difficulty: 1
 ## ft_strlen
     Assignment name  : ft_strlen
     Expected files   : ft_strlen.c
-    Allowed functions:
+    Allowed functions: None
     --------------------------------------------------------------------------------
 
     Write a function that returns the length of a string.
@@ -112,7 +112,7 @@ Some C exercises - Difficulty: 1
 ## ft_swap
     Assignment name  : ft_swap
     Expected files   : ft_swap.c
-    Allowed functions:
+    Allowed functions: None
     --------------------------------------------------------------------------------
 
     Write a function that swaps the contents of two integers the adresses of which
