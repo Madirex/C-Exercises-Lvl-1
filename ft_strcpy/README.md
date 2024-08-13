@@ -2,7 +2,7 @@ Exercise
 
     Assignment name  : ft_strcpy
     Expected files   : ft_strcpy.c
-    Allowed functions:
+    Allowed functions: None
     --------------------------------------------------------------------------------
     
     Reproduce the behavior of the function strcpy (man strcpy).
