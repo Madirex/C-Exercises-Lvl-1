@@ -2,7 +2,7 @@ Exercise
 
     Assignment name  : ft_strlen
     Expected files   : ft_strlen.c
-    Allowed functions:
+    Allowed functions: None
     --------------------------------------------------------------------------------
     
     Write a function that returns the length of a string.
