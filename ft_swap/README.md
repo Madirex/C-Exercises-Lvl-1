@@ -2,7 +2,7 @@ Exercise
 
     Assignment name  : ft_swap
     Expected files   : ft_swap.c
-    Allowed functions:
+    Allowed functions: None
     --------------------------------------------------------------------------------
     
     Write a function that swaps the contents of two integers the adresses of which
